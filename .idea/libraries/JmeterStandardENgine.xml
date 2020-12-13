@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JmeterStandardENgine">
+    <CLASSES>
+      <root url="file://$USER_HOME$/seleniumdrivers/JmeterStandardENgine" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/seleniumdrivers/JmeterStandardENgine" recursive="false" />
+  </library>
+</component>
